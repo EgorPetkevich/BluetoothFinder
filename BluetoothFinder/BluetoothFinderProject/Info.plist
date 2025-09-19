@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>xmark_shortcut</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>Feel free to contact us with any questions. 📝</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🔍 Need Assistance?</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>help</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>exclamationmark_shortcut</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>Reach out to us if you wish to unsubscribe 🙏</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🛑 Cancel Subscription?</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>cancel</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>heart_shortcut</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>Your feedback is very important to us</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🌟 Do you like our app?</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>feedback</string>
+		</dict>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>mainColor</string>
+		<key>UIImageName</key>
+		<string>launchScreenIcon</string>
+		<key>UILaunchScreen</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
