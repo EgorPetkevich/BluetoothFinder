@@ -34,9 +34,9 @@ Favorite devices are stored in **CoreData** and always show their current proxim
 ## Screenshots
 
 <p float="left">
+  <img src="Screenshots/Permision.PNG" alt="Permission" width="200"/>
   <img src="Screenshots/SearchResult.PNG" alt="Search Result" width="200"/>
   <img src="Screenshots/Navigate.PNG" alt="Navigate" width="200"/>
-  <img src="Screenshots/Permision.PNG" alt="Permission" width="200"/>
   <img src="Screenshots/Favorite.PNG" alt="Favorite Devices" width="200"/>
 </p>
 
