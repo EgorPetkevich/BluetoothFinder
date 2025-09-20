@@ -14,7 +14,7 @@ Favorite devices are stored in **CoreData** and always show their current proxim
 - Favorites screen shows updated distance in real time  
 - Built with SwiftUI for a smooth and modern UI  
 - CoreData persistence for saved devices  
-
+- Apphud subscription management, paywalls, and A/B testing
 ---
 
 ## Requirements
